@@ -1,3 +1,5 @@
+//String Processing and HashMap
+
 // - Given a list of shipments represented as dictionaries with 
 // attributes like destination, weight, and status, process the shipments 
 // to categorize them by status (e.g., delivered, in transit, delayed).
@@ -5,7 +7,6 @@
 
 // - Extension: Add functionality to filter the shipments by destination 
 // and sort them by weight.
-//   **String Processing and HashMap**:
 
 #include<iostream>
 #include<map>
