@@ -1,8 +1,12 @@
+//Dictionary and Shipment Processing
+
 // Given a string of comma-separated key-value pairs (e.g., "id=1,name=John,date=2023-10-23"),
 // parse the string and store each pair in a hash map. 
 // Write a function to retrieve values by key.
 // Extension: Modify the function to handle multiple occurrences of the same key,
 // storing the values as a list in the map.
+
+//sample input- id=1,name=John,date=2023-10-23,id=2,name=Jane
 
 #include<iostream>
 #include<vector>
