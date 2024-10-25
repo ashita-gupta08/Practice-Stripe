@@ -1,3 +1,5 @@
+//Data Parsing and Processing
+
 // - Parse a string representing multiple messages, 
 // each containing an ID, timestamp, and message body.
 // Store the messages in a hash map, indexed by their ID.
@@ -5,9 +7,8 @@
  
 // - Extension: Add functionality to retrieve messages
 // for a given range of timestamps.
-// **Class-Based Design with Refactoring**:
   
-// "ID1,2024-10-22T10:30:00,Message body 1;ID2,2024-10-22T10:35:00,Message body 2;ID1,2024-10-22T10:40:00,Message body 3;ID3,2024-10-22T10:32:00,Message body 4;"
+// sample input- ID1,2024-10-22T10:30:00,Message body 1;ID2,2024-10-22T10:35:00,Message body 2;ID1,2024-10-22T10:40:00,Message body 3;ID3,2024-10-22T10:32:00,Message body 4;
 
   
 #include<iostream>
